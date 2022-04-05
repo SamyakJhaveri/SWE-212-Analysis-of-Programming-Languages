@@ -64,7 +64,7 @@ func main() {
 	content := getText(os.Args[1])
 
 	// Read 'stopwords.txt' file to get stopwords
-	sw, err := ioutil.ReadFile("stop_words.txt")
+	sw, err := ioutil.ReadFile("../stop_words.txt")
 	checkError("Cannot find stopwords", err)
 	sw_str := string(sw)
 	stopwords := strings.Split(sw_str, ",")
