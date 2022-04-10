@@ -1,6 +1,6 @@
 /* https://zetcode.com/golang/word-frequency/
  */
-
+// SUCCESS!! Took this one into the submission code
 package main
 
 import (

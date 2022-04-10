@@ -1,6 +1,6 @@
 /* With Reference to: https://github.com/dubirajara/go-word-frequency-counter/blob/main/main.go
 https://yourbasic.org/golang/regexp-cheat-sheet/*/
-
+// SUCCESS!
 package main
 
 import (
