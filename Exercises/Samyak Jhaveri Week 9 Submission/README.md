@@ -50,7 +50,4 @@ How to run:
     ruby the_one_week3_redone.rb ../pride-and-prejudice.txt
 
 
-
-
-
 Thank you!
