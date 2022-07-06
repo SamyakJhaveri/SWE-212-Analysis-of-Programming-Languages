@@ -1,0 +1,15 @@
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.csproj.AssemblyReference.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.AssemblyInfoInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.AssemblyInfo.cs
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.csproj.CoreCompileInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/bin/Debug/net6.0/pipeline_sam
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/bin/Debug/net6.0/pipeline_sam.deps.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/bin/Debug/net6.0/pipeline_sam.runtimeconfig.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/bin/Debug/net6.0/pipeline_sam.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/bin/Debug/net6.0/pipeline_sam.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/refint/pipeline_sam.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/pipeline_sam.genruntimeconfig.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/pipeline_sam/obj/Debug/net6.0/ref/pipeline_sam.dll

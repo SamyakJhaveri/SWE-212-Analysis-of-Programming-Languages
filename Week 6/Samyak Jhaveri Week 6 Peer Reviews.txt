@@ -1,0 +1,42 @@
+1) For Student https://replit.com/@ShiyueRong/SWE212 :
+
+Timeliness:		(15/15)
+All Exercises submitted On Time
+
+Correctness:		(20/20)
+All programs return correct output
+
+Style:			(45/45)
+For Style #29: Adheres to style requirements
+For Style #30: Adheres to style requirements
+For Style #32: Adheres to style requirements
+
+
+2) For Student https://replit.com/@li-xiaoying/CS253#Week6/README.md:
+
+Timeliness:		(15/15)
+
+
+
+Correctness:		(20/20)
+All programs return correct output
+
+
+Style:			(45/45)
+For Style #29: Adheres to style requirements
+For Style #30: Adheres to style requirements
+For Style #32: Adheres to style requirements
+
+
+3) For Student https://replit.com/@HsiaoTungL/CS253#README.md :
+
+Timeliness:		(15/15)
+All Exercises submitted On Time
+
+Correctness:		(20/20)
+All programs return correct output
+
+Style:			(45/45)
+For Style #29: Adheres to style requirements
+For Style #30: Adheres to style requirements
+For Style #32: Adheres to style requirements

@@ -1,0 +1,58 @@
+1) For Student: https://replit.com/@pabloi09/CS253#README.md
+
+Timeliness:	15/15
+On Time
+
+Correctness:		10/20.
+For Style 17:
+Correct
+For Style 20:
+Getting this error in Shell, followed the instructions in the README.md to the dot:
+~/CS253-4/week_5$ java -jar deploy/framework.jar ../stop_words.txt ../pride-and-prejudice.txt
+java.nio.file.NoSuchFileException: /home/runner/CS253/week_5/config.ini
+E1.
+Dear Reader, please help assessing this submission as the code looks correct but it seems to be a repl.it issue. Giving 10 out of 20 as placeholder, since only Style #17 produced the result. Style #20 code may produce reuslt if assessed differently or on a different compiler. 
+Thank You.
+
+Style:		45/45
+Correct on both Styles. 
+The Canvas did not save my comment and score for the student. Dear Reader, please assign 45/45 to this student as both the styles are correct.
+
+2) For Student: https://replit.com/@thisuser23/SWE212#week5/README.md
+
+Timeliness:		15/15
+On Time
+
+Correctness:		20/20
+Both are correct
+
+Style:		45/45
+Styling is Correct on Both Styles
+
+3) For Student: https://replit.com/@Edwardong/CS253Assignments#Week5/README.md
+
+Timeliness:		15/15
+On Time
+
+Correctness:		10/20
+
+For Style 17:
+Correct result
+For Style 20:
+Not obtaining result inthe Result-Twenty2.txt file as mentioned in the README.md. Getting this error instead:
+~/CS253Assignments/Week5$ bash runTwenty.sh 1
+~/CS253Assignments/Week5$ bash runTwenty.sh 2
+Exception in thread "main" java.lang.ClassNotFoundException: words1
+    at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:471)
+    at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:589)
+    at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+    at Twenty.loadPlugins(Twenty.java:32)
+    at Twenty.main(Twenty.java:13)
+~/CS253Assignments/Week5$ 
+
+Dear Reader, Please advise on grading this submission. Putting 10/20 as a placeholder value. Thank you.
+
+Style:		45/45
+
+Style is correct in both exercises.
+

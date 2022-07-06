@@ -1,0 +1,15 @@
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.csproj.AssemblyReference.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.AssemblyInfoInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.AssemblyInfo.cs
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.csproj.CoreCompileInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/bin/Debug/net6.0/things
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/bin/Debug/net6.0/things.deps.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/bin/Debug/net6.0/things.runtimeconfig.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/bin/Debug/net6.0/things.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/bin/Debug/net6.0/things.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/refint/things.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/things.genruntimeconfig.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/things/obj/Debug/net6.0/ref/things.dll

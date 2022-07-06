@@ -36,14 +36,14 @@ import (
 func main() {
 	// get the stopwords form the file
 	// Read 'stop_words.txt' file to get stopwords
-	sw, err := ioutil.ReadFile("../stop_words.txt")
+	sw, err := ioutil.ReadFile("../../stop_words.txt")
 	if err != nil {
 		log.Fatal("Cannot find stopwords", err)
 	}
 	sw_str := string(sw)
 
 	for ch := 'a'; ch <= 'z'; ch++ {
-		sw_str += string(ch)
+		sw_str += "," + string(ch)
 	}
 
 	// get the content of the text file

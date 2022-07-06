@@ -1,0 +1,35 @@
+1) For Student https://replit.com/@YunChen6/Week8#README.md :
+
+Timeliness:		(15/15)
+Exercise submitted On Time
+
+Correctness:		(20/20)
+The program returns correct output
+
+Style:			(45/45)
+For Style #3: Adheres to style requirements
+
+
+2) For Student https://replit.com/@JiSean/CS253-Assignmentsweek8#readme.md :
+
+Timeliness:		(15/15)
+Exercise submitted On Time
+
+Correctness:		(20/20)
+The program returns correct output
+
+Style:			(45/45)
+For Style #3: Adheres to style requirements
+
+3) For Student https://replit.com/@telestrations7/ExercisesPython#Readme.md :
+
+Timeliness:		(15/15)
+Exercise submitted On Time
+
+Correctness:		(20/20)
+The program returns correct output
+
+Style:			(45/45)
+For Style #3: Adheres to style requirements
+
+

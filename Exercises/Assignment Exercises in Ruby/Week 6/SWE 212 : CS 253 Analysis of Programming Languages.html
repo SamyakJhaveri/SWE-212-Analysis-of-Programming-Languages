@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html class="scripts-not-loaded" dir="ltr"   lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="sentry-trace" content="b9abd44264894a3baac95ae46282b20c-3ce0a115f657b618-0"/>
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Regular-bd03a2cc27.woff2" as="font" type="font/woff2" crossorigin="anonmyous">
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Bold-cccb897485.woff2" as="font" type="font/woff2" crossorigin="anonmyous">
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Italic-4eb103b4d1.woff2" as="font" type="font/woff2" crossorigin="anonmyous">
+  <link rel="stylesheet" media="screen" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-43e9c545fc.css" />
+    <script>if (navigator.userAgent.match(/(MSIE|Trident\/)/)) location.replace('/ie-is-not-supported.html')</script>
+  
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/b476627b8f74cc8a4064db591cf335bf/variables-7dd4b80918af0e0218ec0229e4bd5873.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/common-ade423d068.css" />
+  <meta name="apple-itunes-app" content="app-id=480883488">
+<link rel="manifest" href="/web-app-manifest/manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0064a4">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/dashboard-0079ac0ee0.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/react_todo_sidebar-1ea6c57ca3.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/wiki_page-f893268088.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/tinymce-59c32fac15.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/course_show-122a409de2.css" />
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/17759554/canvas.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          if (!e.defaultPrevented) {
+            e.preventDefault()
+          }
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+
+
+  <script>
+    INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"iad.rtmp.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"disableGooglePreviews":true,"logPageViews":true,"editorButtons":[{"name":"Commons Favorites","id":578,"favorite":false,"url":"https://lor.instructure.com/api/lti/favorite-resources","icon_url":"https://lor.instructure.com/img/icon_commons.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":true,"description":"\u003cp\u003eFind and share course content\u003c/p\u003e\n"},{"name":"Google Apps","id":1077,"favorite":false,"url":"https://google-drive-lti-iad-prod.instructure.com/lti/rce-content-selection","icon_url":"https://google-drive-lti-iad-prod.instructure.com/icon.png","canvas_icon_class":null,"width":700,"height":600,"use_tray":false,"description":"\u003cp\u003eAllows you to pull in documents from Google Drive to Canvas\u003c/p\u003e\n"},{"name":"YuJa Media 2.0","id":1228,"favorite":false,"url":"https://uci.yuja.com/LMSEntry.jsp","icon_url":"https://uci.yuja.com/Dashboard/icons/yuja_basic.png","canvas_icon_class":null,"width":800,"height":600,"use_tray":false,"description":"\u003cp\u003eYuJa is an Enterprise Video Platform.\u003c/p\u003e\n"},{"name":"Insert a Wiley Resource","id":9586,"favorite":false,"url":"https://lti.education.wiley.com/wpng/api/v1/lti/resourcediscoverytool","icon_url":"https://education.wiley.com/assets/images/wp.svg","canvas_icon_class":null,"width":1160,"height":660,"use_tray":false,"description":"\u003cp\u003eOutcomes-based learning.\u003c/p\u003e\n"}]};
+    ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/b476627b8f74cc8a4064db591cf335bf/variables-7dd4b80918af0e0218ec0229e4bd5873.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/b476627b8f74cc8a4064db591cf335bf/variables-7dd4b80918af0e0218ec0229e4bd5873.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-a64c7fe33c.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-43e9c545fc.css"],"url_for_high_contrast_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-fa0672d544.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-43e9c545fc.css"],"current_user_id":"352499","current_user_global_id":"44070000000352499","current_user_roles":["user","student","teacher","observer"],"current_user_is_student":true,"current_user_types":[],"current_user_disabled_inbox":false,"discussions_reporting":true,"files_domain":"cluster37.canvas-user-content.com","DOMAIN_ROOT_ACCOUNT_ID":"44070000000000001","k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":false,"auto_show_cc":false,"disable_celebrations":false,"disable_keyboard_shortcuts":false,"LTI_LAUNCH_FRAME_ALLOWANCES":["geolocation *","microphone *","camera *","midi *","encrypted-media *","autoplay *","clipboard-write *","display-capture *"],"DEEP_LINKING_POST_MESSAGE_ORIGIN":"https://canvas.eee.uci.edu","DEEP_LINKING_LOGGING":null,"comment_library_suggestions_enabled":false,"SETTINGS":{"open_registration":false,"collapse_global_nav":false,"release_notes_badge_disabled":true},"FULL_STORY_ENABLED":false,"SENTRY_FRONTEND":{"dsn":"https://355a1d96717e4038ac25aa852fa79a8f@sentry.insops.net/388","org_slug":"instructure","base_url":"https://sentry.insops.net","normalized_route":"/courses/{id}","errors_sample_rate":"0.0005","traces_sample_rate":"0.0005","url_deny_pattern":"instructure-uploads.*amazonaws.com","environment":"Production","revision":"canvas-lms@20220427.216"},"API_GATEWAY_URI":"https://api.us-east-1.instructure.com/graphql/future","DATA_COLLECTION_ENDPOINT":"https://canvas-frontend-data-iad-prod.inscloudgate.net/submit","DIRECT_SHARE_ENABLED":false,"FEATURES":{"featured_help_links":true,"feature_flag_filters":true,"conferencing_in_planner":true,"word_count_in_speed_grader":true,"observer_picker":false,"lti_platform_storage":false,"scale_equation_images":true,"new_equation_editor":true,"buttons_and_icons_cropper":false,"course_paces_blackout_dates":false,"product_tours":false,"files_dnd":true,"usage_rights_discussion_topics":true,"granular_permissions_manage_users":true,"create_course_subaccount_picker":true,"lti_deep_linking_module_index_menu_modal":true,"lti_multiple_assignment_deep_linking":true,"buttons_and_icons_root_account":true,"embedded_release_notes":true,"canvas_k6_theme":false,"new_math_equation_handling":true},"current_user":{"id":"352499","anonymous_id":"7jzn","display_name":"Samyak Neerav Jhaveri","avatar_image_url":"https://canvas.eee.uci.edu/images/thumbnails/15319408/rXwWz64XU20nHhjoDwBhGYz9UnukA1Q2pB8uzpoI","html_url":"https://canvas.eee.uci.edu/about/352499","pronouns":null,"avatar_is_fallback":false},"page_view_update_url":"/page_views/73d78d05-1320-4284-be62-0d0eec74aa9a?page_view_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpIjoiNzNkNzhkMDUtMTMyMC00Mjg0LWJlNjItMGQwZWVjNzRhYTlhIiwidSI6NDQwNzAwMDAwMDAzNTI0OTksImMiOiIyMDIyLTA1LTA5VDIyOjM3OjQyLjg1WiJ9.AZ7DyjPs0yDrxuVsZcObL3xK8hPMSYiuAYZAwQOO4Nc","context_asset_string":"course_46197","ping_url":"https://canvas.eee.uci.edu/api/v1/courses/46197/ping","TIMEZONE":"America/Los_Angeles","CONTEXT_TIMEZONE":"America/Los_Angeles","LOCALES":["en"],"BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","rce_auto_save_max_age_ms":86400000,"K5_USER":false,"K5_HOMEROOM_COURSE":false,"K5_SUBJECT_COURSE":false,"INCOMPLETE_REGISTRATION":null,"USER_EMAIL":"samyaknj@uci.edu","badge_counts":{"submissions":0},"NEW_USER_TUTORIALS":{"is_enabled":false},"COURSE":{"id":"46197","long_name":"SWE 212 / CS 253 Analysis of Programming Languages - SWE 212 / CS 253 Analy...","pages_url":"https://canvas.eee.uci.edu/courses/46197/pages","is_student":true,"is_instructor":false,"front_page_title":"SWE 212 Analysis of Programming Languages ","default_view":"wiki"},"WIKI_RIGHTS":{"read":true},"PAGE_RIGHTS":{"read":true},"DEFAULT_EDITING_ROLES":"teachers","WIKI_PAGES_PATH":"/courses/46197/pages","COURSE_HOME":true,"COURSE_TITLE":"SWE 212 / CS 253 Analysis of Programming Languages","WIKI_PAGE":{"editing_roles":"teachers","title":"SWE 212 Analysis of Programming Languages ","created_at":"2022-03-27T09:35:51-07:00","url":"swe-212-analysis-of-programming-languages","page_id":"531754","last_edited_by":{"id":"35365","anonymous_id":"rad","display_name":"Cristina Videira Lopes","avatar_image_url":"https://canvas.eee.uci.edu/images/thumbnails/1257542/KXXGAcqVWo8ZHdkF6YhB7X06aOiqwUpa73roUZhV","html_url":"https://canvas.eee.uci.edu/courses/46197/users/35365","pronouns":null},"published":true,"hide_from_students":false,"front_page":true,"html_url":"https://canvas.eee.uci.edu/courses/46197/pages/swe-212-analysis-of-programming-languages","todo_date":null,"updated_at":"2022-04-10T21:01:04-07:00","locked_for_user":false,"body":"\u003cp\u003eInstructor: Prof. Cristina Lopes, ISEB 2430, lopes@uci.edu \u003cbr\u003eOffice hours: Thursdays 2:30--3:30pm (\u003ca href=\"https://uci.zoom.us/my/crista.lopes\"\u003ePrivate meeting room @\u0026nbsp;Zoom\u003c/a\u003e)\u003c/p\u003e\n\u003cp\u003eReader: David Kutas (\u003ca class=\"c-link\" href=\"mailto:dkutas@uci.edu\" target=\"_blank\" data-stringify-link=\"mailto:dkutas@uci.edu\" data-sk=\"tooltip_parent\" aria-haspopup=\"menu\" aria-expanded=\"false\" data-remove-tab-index=\"true\"\u003edkutas@uci.edu)\u003c/a\u003e\u003cspan\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003ctable id=\"AutoNumber1\" style=\"border-collapse: collapse;\" border=\"1\" width=\"100%\" cellspacing=\"0\" cellpadding=\"10\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" width=\"80%\"\u003e\u003cspan style=\"font-family: Pristina; font-size: large;\"\u003e\u003cstrong\u003eSynopsis\u003c/strong\u003e\u003c/span\u003e\n\u003cp\u003e\u003cstrong\u003ePurpose.\u003c/strong\u003e The study of programming languages and their use in software systems engineering. See beyond hypes, know the past, grasp fundamental concepts.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTextbook: \u003c/strong\u003e \u003ca href=\"https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/0367350203/\"\u003eExercises in Programming Style, 2nd Edition\u003c/a\u003e\u003cbr\u003e\u003cstrong\u003eCode:\u003c/strong\u003e \u003ca href=\"https://github.com/crista/exercises-in-programming-style\"\u003eGithub\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eEvaluation.\u003c/strong\u003e Weekly { Exercises (80) + Peer Reviews (10) + Paper (10) }\u003c/p\u003e\nUp to 9 weeks, each worth up to 100 points:\n\u003ctable border=\"1\" cellpadding=\"1\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eLevel\u003c/td\u003e\n\u003ctd\u003ePoints\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eLevel\u003c/td\u003e\n\u003ctd\u003ePoints\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eLevel\u003c/td\u003e\n\u003ctd\u003ePoints\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eLevel\u003c/td\u003e\n\u003ctd\u003ePoints\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eA+\u003c/td\u003e\n\u003ctd\u003e900\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eB+\u003c/td\u003e\n\u003ctd\u003e765\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eC+\u003c/td\u003e\n\u003ctd\u003e630\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eD\u003c/td\u003e\n\u003ctd\u003e495\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eA\u003c/td\u003e\n\u003ctd\u003e855\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eB\u003c/td\u003e\n\u003ctd\u003e720\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eC\u003c/td\u003e\n\u003ctd\u003e585\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eA-\u003c/td\u003e\n\u003ctd\u003e810\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eB-\u003c/td\u003e\n\u003ctd\u003e675\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003eC-\u003c/td\u003e\n\u003ctd\u003e540\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003ctd\u003e\u0026nbsp;\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan style=\"font-size: large;\"\u003eAcademic Honesty\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eI trust all students are honest and do not cheat. Those who break my trust at any point will get an F in the course - no excuses or apologies will be accepted. Additional penalties may also be imposed by the department and the university. Very severe incidents of academic dishonesty can result in suspension or expulsion from the university.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan style=\"font-size: large;\"\u003eStudents with Disability\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAny student who feels he or she may need an accommodation based on the impact of a disability should contact me privately to discuss his or her specific needs. Also contact the Disability Services Center at (949) 824-7494 as soon as possible to better ensure that such accommodations are implemented in a timely fashion.\u003c/p\u003e"},"WIKI_PAGE_REVISION":"6","WIKI_PAGE_SHOW_PATH":"/courses/46197/pages/swe-212-analysis-of-programming-languages","WIKI_PAGE_EDIT_PATH":"/courses/46197/pages/swe-212-analysis-of-programming-languages/edit","WIKI_PAGE_HISTORY_PATH":"/courses/46197/pages/swe-212-analysis-of-programming-languages/revisions","COURSE_ID":"46197","MODULES_PATH":"/courses/46197/modules","notices":[],"active_context_tab":"home"};
+    BRANDABLE_CSS_HANDLEBARS_INDEX = [["new_styles_normal_contrast","new_styles_high_contrast","new_styles_normal_contrast_rtl","new_styles_high_contrast_rtl"],{"10":["8300658022",0,"250b5824c2",2],"15":["fc26aa5fd4",0,"f904416063",2],"19":["df5777ed9c"],"61":["f3934dab06","f405852bb2","ee5810890b","3fd9943b9a"],"64":["6d90a3d213",0,"cace9d4281",2],"67":["8b57f54e71",0,"43833dde85",2],"71":["35b89b103a","4304be7d41","58dbfc2651","2932678b1c"],"06":["4526e0502d",0,"4ca4dedba8",2],"f0":["7c947dce20",0,0,0],"c8":["12d5e4d1e8","9f7b02d283","4ebd280f3e","b547456f4c"],"1e":["7360c722db","d924b1a50e","de7069e18f","b579f0fc1d"],"b3":["8ebc71ebc3","cf8efa05c8","4efdc93a21","fd6d3a9780"],"4f":["0a2c3dcf2f",0,"79668e6396",2],"0c":["c26e82abac",0,"b71e9cbd6d",2],"da":["efb9fe6d7c","edbd1b5e83","a6dc56afb7","dfb2d13098"],"1d":["a3bfcb7961",0,"90682b3bbe",2],"08":["64bff5a97d"],"e2":["11429f119a"],"9f":["35936a18c3",0,0,0],"2b":["abf63f48ef","bf8e135ffe","378e0c136b","9833e305e6"],"2c":["6d919206cd",0,0,0],"c2":["6f2721ae01"],"9c":["ecafc938e4",0,"59e7c22304",2],"c5":["ebf0e1382f","7f587d9a8a","afbdabf23d","0d398196a8"],"f2":["51574f9b13"]}]
+;
+  </script>
+
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/b476627b8f74cc8a4064db591cf335bf/variables-7dd4b80918af0e0218ec0229e4bd5873.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Los_Angeles-d9cac65c52.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Los_Angeles-d9cac65c52.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-2ef256ac3c.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+
+      ;["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/b476627b8f74cc8a4064db591cf335bf/variables-7dd4b80918af0e0218ec0229e4bd5873.js", "https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Los_Angeles-d9cac65c52.js", "https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Los_Angeles-d9cac65c52.js", "https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js", "https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-2ef256ac3c.js"].forEach(function(src) {
+        var s = document.createElement('script')
+        s.src = src
+        s.async = false
+        document.head.appendChild(s)
+      });
+//]]>
+</script><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/0-c-01a38a611c.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/1-c-db599e5793.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/2-c-479fa71934.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/3-c-623dc70b77.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4-c-1fdbd52c5d.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/5-c-96b074fb62.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/6-c-74bb245ec7.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/7-c-8b18744749.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/8-c-c5f6a401eb.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/9-c-a96d96e6bd.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/10-c-9bc1ebed8d.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/11-c-77d301612e.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/12-c-36089dc6ce.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/13-c-b6755d6638.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/15-c-bbd16d24ff.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/14-c-54f4e66a3c.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/16-c-81c6ffebbb.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/17-c-76c1a52bf9.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/18-c-12ed1e778c.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/19-c-d54ef2574a.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/20-c-2e03c7f74e.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/23-c-5a3dc502ae.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/24-c-54413f6d22.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/25-c-b69b83a9c6.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/26-c-fa1688a6c6.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/27-c-35fc1d7739.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/28-c-d7b8ef372a.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/29-c-2643bc0919.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/31-c-e099c8ca51.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/wiki_page_show-c-e7df5ed08c.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/course-c-1c9bfa7a2b.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/32-c-48bbb40f18.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/38-c-701f057529.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/56-c-3bc88392c2.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/70-c-258ce1f782.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/79-c-91bed01253.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/course_show-c-dcdf1732dd.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/115-c-e67fa9fff6.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header-c-1569967c08.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('wiki_page_show');
+(window.bundles || (window.bundles = [])).push('course');
+(window.bundles || (window.bundles = [])).push('course_show');
+(window.bundles || (window.bundles = [])).push('navigation_header');
+//]]>
+</script>
+    <link rel="alternate" type="application/atom+xml" title="Course Atom Feed" href="/feeds/courses/enrollment_0ySUnNyvhLvktFioMCwqePurwFQVUOoCR8cKw7lx.atom" />
+  <title>SWE 212 / CS 253 Analysis of Programming Languages</title>
+  
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', "UA-9138420-1", 'auto');
+      ga('set', 'userId', "eded64327ac423bf5b0fc285d08075ab");
+    ga('set', 'dimension1', "111");
+    ga('set', 'dimension2', "00");
+    ga('set', 'dimension3', "0");
+    ga('set', 'dimension4', "Higher Ed");
+    ga('send', 'pageview');
+    (window.requestIdleCallback || window.setTimeout)(function(){
+      var s=document.createElement('script'), m=document.getElementsByTagName('script')[0]
+      s.async=1; s.src='https://www.google-analytics.com/analytics.js'
+      m.parentNode.insertBefore(s,m)
+    });
+  </script>
+
+
+
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side padless-content pages home primary-nav-expanded context-course_46197 responsive_student_grades_page">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+
+
+
+<header id="mobile-header" class="no-print">
+  <button type="button" class="Button Button--icon-action-rev Button--large mobile-header-hamburger">
+    <i class="icon-solid icon-hamburger"></i>
+    <span id="mobileHeaderInboxUnreadBadge" class="menu-item__badge" style="min-width: 0; top: 12px; height: 12px; right: 6px; display:none;"></span>
+    <span class="screenreader-only">Dashboard</span>
+  </button>
+  <div class="mobile-header-space"></div>
+    <a class="mobile-header-title expandable" href="https://canvas.eee.uci.edu/courses/46197" role="button" aria-controls="mobileContextNavContainer">
+      <div>SWE 212 / CS 253 Analy...</div>
+    </a>
+    <div class="mobile-header-space"></div>
+    <button type="button" class="Button Button--icon-action-rev Button--large mobile-header-arrow" aria-label="Navigation Menu">
+      <i class="icon-arrow-open-down" id="mobileHeaderArrowIcon"></i>
+    </button>
+</header>
+<nav id="mobileContextNavContainer"></nav>
+
+<header id="header" class="ic-app-header no-print ">
+  <a href="#content" id="skip_navigation_link">Skip To Content</a>
+  <div role="region" class="ic-app-header__main-navigation" aria-label="Global Navigation">
+      <div class="ic-app-header__logomark-container">
+        <a href="https://canvas.eee.uci.edu/" class="ic-app-header__logomark">
+          <span class="screenreader-only">Dashboard</span>
+        </a>
+      </div>
+    <ul id="menu" class="ic-app-header__menu-list">
+        <li class="menu-item ic-app-header__menu-list-item ">
+          <button id="global_nav_profile_link" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container">
+              <div aria-hidden="true" class="fs-exclude ic-avatar ">
+                <img src="https://canvas.eee.uci.edu/images/thumbnails/15319408/rXwWz64XU20nHhjoDwBhGYz9UnukA1Q2pB8uzpoI" alt="Samyak Neerav Jhaveri" />
+              </div>
+              <span class="menu-item__badge"></span>
+            </div>
+            <div class="menu-item__text">
+              Account
+            </div>
+          </button>
+        </li>
+      <li class="ic-app-header__menu-list-item ">
+        <a id="global_nav_dashboard_link" href="https://canvas.eee.uci.edu/" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+          </div>
+          <div class="menu-item__text">Dashboard</div>
+        </a>
+      </li>
+        <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+          <button id="global_nav_courses_link" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+            </div>
+            <div class="menu-item__text">
+              Courses
+            </div>
+          </button>
+        </li>
+      <li class="menu-item ic-app-header__menu-list-item ">
+        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+          </div>
+          <div class="menu-item__text">
+            Calendar
+          </div>
+        </a>
+      </li>
+      <li class="menu-item ic-app-header__menu-list-item ">
+        <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container">
+            <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+</span>
+            <span class="menu-item__badge"></span>
+          </div>
+          <div class="menu-item__text">
+            Inbox
+          </div>
+        </a>
+      </li>
+        <li class="menu-item ic-app-header__menu-list-item" >
+          <button id="global_nav_history_link" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg viewBox="0 0 1920 1920" class="ic-icon-svg menu-item__icon svg-icon-history" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M960 112.941c-467.125 0-847.059 379.934-847.059 847.059 0 467.125 379.934 847.059 847.059 847.059 467.125 0 847.059-379.934 847.059-847.059 0-467.125-379.934-847.059-847.059-847.059M960 1920C430.645 1920 0 1489.355 0 960S430.645 0 960 0s960 430.645 960 960-430.645 960-960 960m417.905-575.955L903.552 988.28V395.34h112.941v536.47l429.177 321.77-67.765 90.465z" stroke="none" stroke-width="1" fill-rule="evenodd"/>
+</svg>
+            </div>
+            <div class="menu-item__text">
+              History
+            </div>
+          </button>
+        </li>
+        
+
+    <li id="context_external_tool_578_menu_item" class="globalNavExternalTool menu-item ic-app-header__menu-list-item">
+      <a class='ic-app-header__menu-list-link' href="/accounts/1/external_tools/578?launch_type=global_navigation">
+          <svg version="1.1" class="ic-icon-svg ic-icon-svg--lti menu-item__icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+            <path d="M9.4 32c0-7.8 6.5-14.3 14.4-14.3h11.7v-9.4h-11.8c-13.1 0-23.7 10.6-23.7 23.7s10.7 23.7 23.7 23.7h11.7v-9.4h-11.7c-7.9 0-14.3-6.5-14.3-14.3z m54.6 0l-19.1-17v11.3h-20.2c-3.1 0-5.6 2.5-5.6 5.6s2.5 5.6 5.6 5.7h20.2v11.2l19.1-16.8z"/>
+          </svg>
+        <div class="menu-item__text">
+          Commons
+        </div>
+      </a>
+    </li>
+
+      <li class="ic-app-header__menu-list-item">
+        <a id="global_nav_help_link" role="button" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+          <div class="menu-item-icon-container" role="presentation">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+            <span class="menu-item__badge"></span>
+          </div>
+          <div class="menu-item__text">
+            Help
+          </div>
+</a>      </li>
+    </ul>
+  </div>
+  <div class="ic-app-header__secondary-navigation">
+    <ul class="ic-app-header__menu-list">
+      <li class="menu-item ic-app-header__menu-list-item">
+        <button
+          id="primaryNavToggle"
+          class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+          aria-label="Minimize global navigation"
+          title="Minimize global navigation"
+        >
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+          </div>
+        </button>
+      </li>
+    </ul>
+  </div>
+  <div id="global_nav_tray_container"></div>
+  <div id="global_nav_tour"></div>
+</header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+
+        <div class="ic-app-crumbs">
+            <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible"><i class="icon-home"
+   title="My Dashboard">
+  <span class="screenreader-only">My Dashboard</span>
+</i>
+</span></a></li><li id="crumb_course_46197"><a href="https://canvas.eee.uci.edu/courses/46197"><span class="ellipsible">SWE 212 / CS 253 Analy...</span></a></li></ul></nav>
+        </div>
+
+
+        <div class="right-of-crumbs">
+        </div>
+
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu ic-sticky-on list-view"
+          style="display: block"
+          >
+          <div id="sticky-container" class="ic-sticky-frame">
+              <span id="section-tabs-header-subtitle" class="ellipsis">Spring 2022</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/46197" aria-current="page" class="home active">Home</a></li><li class="section"><a href="/courses/46197/assignments/syllabus" class="syllabus">Syllabus</a></li><li class="section"><a href="/courses/46197/external_tools/7799?display=borderless" class="context_external_tool_7799" target="_blank">Ed Discussion</a></li><li class="section"><a href="/courses/46197/external_tools/1228" class="context_external_tool_1228">YuJa 2.0</a></li><li class="section"><a href="/courses/46197/assignments" class="assignments">Assignments</a></li><li class="section"><a href="/courses/46197/grades" class="grades">Grades</a></li><li class="section"><a href="/courses/46197/users" class="people">People</a></li><li class="section"><a href="/courses/46197/files" class="files">Files</a></li></ul></nav>
+          </div>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+          
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+  <h1 class='screenreader-only'>SWE 212 / CS 253 Analysis of Programming Languages</h1>
+
+
+
+<div id="course_home_content">
+    <div id="wiki_page_show"></div>
+</div>
+<div id="wizard_box"></div>
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+                <div id="course_show_secondary">
+
+
+  <div class="course-options">
+    
+
+    <a class="btn button-sidebar-wide" href="/courses/46197?view=feed">
+      <i class="icon-stats"></i>
+      View Course Stream
+    </a>
+
+
+
+    </div>
+
+
+    <a class="btn button-sidebar-wide" href="https://canvas.eee.uci.edu/calendar?include_contexts=course_46197">
+      <i class="icon-calendar-day"></i>
+      View Course Calendar
+    </a>
+
+    <a class="btn button-sidebar-wide" href="/courses/46197?view=notifications">
+      <i class="icon-unmuted"></i>
+      View Course Notifications
+    </a>
+
+      <div class="todo-list Sidebar__TodoListContainer"></div>
+
+    
+
+    
+  </div>
+
+      
+<div class="events_list
+  recent_feedback"
+>
+  <div class="h2 shared-space">
+    <h2>Recent Feedback</h2>
+  </div>
+  <ul class="right-side-list events">
+      
+<li style="" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951462/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 4
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>80 out of 80</strong></p>
+        <p>"On Time: +15
+Correct Output: +20
+Follows Style Requirements: +45
+Total Score: 80"</p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951461/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 3 Peer Reviews
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>8 out of 10</strong></p>
+        <p>"Late submission."</p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951514/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 3 Paper  
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>9 out of 10</strong></p>
+        <p>"High Turnitin similarity score that I also validated."</p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="display: none;" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951458/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 2
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>65 out of 80</strong></p>
+        <p>"Deducted points because programs produce wrong results."</p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="display: none;" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951516/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 5 Paper
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>10 out of 10</strong></p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="display: none;" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951515/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 4 Paper   
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>10 out of 10</strong></p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="display: none;" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951459/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 2 Peer Reviews
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>7.5 out of 10</strong></p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="display: none;" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951460/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 3
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>20 out of 80</strong></p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+      
+<li style="display: none;" class="event">
+
+
+  <a
+    data-track-category="dashboard"
+    data-track-label="recent feedback"
+    class="recent_feedback_icon" href="/courses/46197/assignments/951463/submissions/352499"
+  >
+    <i class="icon-check"></i>
+    <div class="event-details">
+      <b class="event-details__title recent_feedback_title">
+        Week 4 Peer Reviews
+      </b>
+        <p class="event-details__context">
+          SWE 212 / CS 253 Analy...
+        </p>
+        <p><strong>10 out of 10</strong></p>
+    </div>
+    <div class="clear"></div>
+  </a>
+  <div class="clear"></div>
+
+</li>
+
+    <li>
+      <a href="#" class="more_link">
+            6 more
+        &hellip;</a>
+    </li>
+  </ul>
+</div>
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+        <div id="page_view_id">73d78d05-1320-4284-be62-0d0eec74aa9a</div>
+    </div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  
+
+  <script>
+    Object.assign(
+      ENV,
+      {}
+    )
+  </script>
+
+<link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/inst_fs_service_worker-c-6b1c015024.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('inst_fs_service_worker');
+//]]>
+</script>
+  <script>
+//<![CDATA[
+
+      ;["https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/17759553/canvas.js"].forEach(function(src) {
+        var s = document.createElement('script')
+        s.src = src
+        s.async = false
+        document.head.appendChild(s)
+      });
+//]]>
+</script>
+
+</div> <!-- #application -->
+</body>
+</html>

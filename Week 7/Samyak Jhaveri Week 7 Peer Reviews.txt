@@ -1,0 +1,39 @@
+1) For Student https://replit.com/@Rutu22/CS253#week_7/TwentySeven.java :
+
+Timeliness:		(15/15)
+All Exercises submitted On Time
+
+Correctness:		(20/20)
+All programs return correct output
+
+Style:			(45/45)
+For Style #27: Adheres to style requirements
+For Style #28: Adheres to style requirements
+
+2) For Student https://replit.com/@Yao-Chung/CS253#week_7/README.md :
+
+Timeliness:		(15/15)
+All Exercises submitted On Time
+
+Correctness:		(15/20)
+Code for Exercise 27 does not seem to update the final word frequency column. When a txt file is input, it just prints the top 25 most common word frequencies of that particular text file and not the updated word frequencies of both the text files inputted. 
+
+Code for Exercise 28 produces correct output. 
+Style:			(45/45)
+For Style #27: Adheres to style requirements
+For Style #28: Adheres to style requirements
+
+3) For Student https://replit.com/@giga-drill/hw#week7/README.md :
+
+
+Timeliness:		(15/15)
+All Exercises submitted On Time
+
+Correctness:		(15/20)
+Code for Exercise 27 has no way to enter new text file to check if the update() function works. README file does not have any other specific instructions either to test the implementation.
+
+Code for Exercise 28 produces correct output. 
+
+Style:			(45/45)
+For Style #27: Adheres to style requirements
+For Style #28: Adheres to style requirements

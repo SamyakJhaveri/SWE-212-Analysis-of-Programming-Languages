@@ -1,0 +1,12 @@
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/bin/Debug/net6.0/wordslib1.deps.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/bin/Debug/net6.0/wordslib1.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/bin/Debug/net6.0/wordslib1.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.csproj.AssemblyReference.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.AssemblyInfoInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.AssemblyInfo.cs
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.csproj.CoreCompileInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/refint/wordslib1.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/wordslib1.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/wordslib1/obj/Debug/net6.0/ref/wordslib1.dll

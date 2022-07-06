@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <pkgs>
+        <words usepkg="packages/wordslib1.dll"/>
+        <frequencies usepkg="packages/frequencieslib1.dll"/>
+    </pkgs>

@@ -1,0 +1,20 @@
+For Peer 1: 
+	•	Link: https://replit.com/@thisuser23/SWE212#week2/four.cpp
+	•	Comments:
+	◦	On Time: Submission is on time for all 4 exercises (15/15)
+	◦	Correctness: 4 of the 25 outputs were wrong. 0.25 x 4 = 1 point cut. (19/20)
+	◦	Style: (41.75/45)
+	▪	1. For Style #4 Monolithic - 11.25/11.25
+	▪	2. For Style #5 Cookbook - Produces Correct output, but unfortunately does not follow the constraints exactly. Only the one readfile function is supposed to have paramters passed to it, none of the other function should have paramters passed to them. - 8/11.25
+	▪	3. For Style #6 Pipeline - 11.25/11.25
+	▪	4. For Style #7 Code Golf - 11.25/11.25 
+For Peer 2:
+	•	Link: https://replit.com/@ChaosNowChao-Na/CS253#week2/Four.java
+	•	Comments: 
+	◦	On Time: Submissions are all on time. (15/15)
+	◦	Correctness: All the results are correct. (20/20)
+	◦	Style: (45/45)
+	▪	1. For Style #4 - 11.25/11.25
+	▪	2. For Style #5 - 11.25/11.25
+	▪	3. For Style #6 - 11.25/11.25
+	▪	4. For Style #7 - 11.25/11.25

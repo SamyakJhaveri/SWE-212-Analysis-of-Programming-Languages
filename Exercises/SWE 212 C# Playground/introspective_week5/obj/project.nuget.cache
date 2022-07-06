@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4b2V8qXc9BEs9ho+USw0NIzqOBRtWqCMeSccs9TIi9Wx/6dP+4Fh0zFIreqi6/oLEGUb2RKJou7N1e6Gi2TQHg==",
+  "success": true,
+  "projectFilePath": "/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/introspective_week5/introspective_week5.csproj",
+  "expectedPackageFiles": [
+    "/Users/samyakjhaveri/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

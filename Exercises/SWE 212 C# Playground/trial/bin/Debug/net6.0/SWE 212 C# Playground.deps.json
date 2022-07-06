@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SWE 212 C# Playground/1.0.0": {
+        "runtime": {
+          "SWE 212 C# Playground.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWE 212 C# Playground/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

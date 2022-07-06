@@ -1,0 +1,43 @@
+Samyak Jhaveri Peer Reviews Week 4 
+
+1) For https://replit.com/@SalarHashemitah/PapayawhipGreenyellowComments#week4/
+
+Timeliness:
+On time (15/15)
+
+Correctness: 
+Unable to run the programs to get results. The repl link provided does not have the 'pride-and-prejudice.txt' file so was unable to run the programs. Also, the programs were not in a single file i.e. there is a separate program for 12.1, 12.2, 12.3, 15.1, 15.2. (5/20)
+
+Style:
+The student has implemented the subexercises (13.1, 13.2, 13.3) and called them 12.1, 12.2, 12.3 respectively. Even if the style may be correct, there is no way to know since the submission does not have a readme file either for me to know how to run their JavaScript code. Further, the assignment instructions stated that all the codes of a given style must be done ina single code file. (25/45)
+
+
+2) For https://replit.com/@lyq12345/CS253#README.md
+
+Timeliness
+On Time (15/15)
+
+Correctness:
+All Correct (20/20)
+
+Style:
+Correctly implemented 12, 13.1, and 16.1. I don't see an implementation of 13.2, 13.3 or 16.2 in this submision. (40/45)
+
+
+3) For https://replit.com/@li-xiaoying/CS253#Week4/README.md
+
+Timeliness:
+On Time (15/15)
+
+Correctness:
+All Correct (20/20)
+
+Style:
+All Styles and their added flavors implemented correctly (45/45)
+
+
+
+
+
+
+

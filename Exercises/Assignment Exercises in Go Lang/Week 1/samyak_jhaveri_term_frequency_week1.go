@@ -44,7 +44,7 @@ func getText(pnp string) string {
 }
 
 func WordCounter(content string, stopwords []string) map[string]int {
-	reg := regexp.MustCompile("[a-zA-Z']+")
+	reg := regexp.MustCompile("\\w+") //[a-zA-Z']+
 	text := strings.ToLower(content)
 	matches := reg.FindAllString(text, -1)
 
@@ -64,9 +64,12 @@ func main() {
 	content := getText(os.Args[1])
 
 	// Read 'stopwords.txt' file to get stopwords
-	sw, err := ioutil.ReadFile("../stop_words.txt")
+	sw, err := ioutil.ReadFile("../../stop_words.txt")
 	checkError("Cannot find stopwords", err)
 	sw_str := string(sw)
+	for ch := 'a'; ch <= 'z'; ch++ {
+		sw_str = sw_str + "," + string(ch)
+	}
 	stopwords := strings.Split(sw_str, ",")
 
 	words := WordCounter(content, stopwords)

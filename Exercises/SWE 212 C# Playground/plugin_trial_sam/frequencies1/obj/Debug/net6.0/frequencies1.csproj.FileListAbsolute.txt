@@ -1,0 +1,15 @@
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.csproj.AssemblyReference.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.AssemblyInfoInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.AssemblyInfo.cs
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.csproj.CoreCompileInputs.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/bin/Debug/net6.0/frequencies1
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/bin/Debug/net6.0/frequencies1.deps.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/bin/Debug/net6.0/frequencies1.runtimeconfig.json
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/bin/Debug/net6.0/frequencies1.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/bin/Debug/net6.0/frequencies1.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/refint/frequencies1.dll
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.pdb
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/frequencies1.genruntimeconfig.cache
+/Users/samyakjhaveri/Desktop/Drive Folder/Spring 2022/SWE-212-Analysis-of-Programming-Languages/Exercises/SWE 212 C# Playground/plugin_trial_sam/frequencies1/obj/Debug/net6.0/ref/frequencies1.dll

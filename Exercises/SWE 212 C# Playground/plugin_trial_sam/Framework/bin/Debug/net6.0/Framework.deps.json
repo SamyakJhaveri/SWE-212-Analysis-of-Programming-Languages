@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Framework/1.0.0": {
+        "dependencies": {
+          "frequencies1": "1.0.0",
+          "frequencies1lib": "1.0.0",
+          "words1": "1.0.0",
+          "words1lib": "1.0.0"
+        },
+        "runtime": {
+          "Framework.dll": {}
+        }
+      },
+      "frequencies1/1.0.0": {
+        "runtime": {
+          "frequencies1.dll": {}
+        }
+      },
+      "frequencies1lib/1.0.0": {
+        "runtime": {
+          "frequencies1lib.dll": {}
+        }
+      },
+      "words1/1.0.0": {
+        "runtime": {
+          "words1.dll": {}
+        }
+      },
+      "words1lib/1.0.0": {
+        "runtime": {
+          "words1lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "frequencies1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "frequencies1lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "words1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "words1lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
